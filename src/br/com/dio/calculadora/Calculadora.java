@@ -18,7 +18,7 @@ public class Calculadora {
         float dividir = dividir(a,b);
 
         System.out.println("somar: " + somar);
-        System.out.println("subt: " + subtrair);
+        System.out.println("resultado subt: " + subtrair);
         System.out.println("resultado mult: " + multiplicar);
         System.out.println("resultado div: " + dividir);
 
